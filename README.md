@@ -1,7 +1,7 @@
 ## Olá, eu sou o Alessandro Azevedo!!
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estou estudando mais sobre NodeJS e Python
+- 🔭 Hoje trabalho com back-end, principalmente .NET Core e Golang
+- 🌱 Estou estudando mais sobre as linguagens as quais trabalho além de NodeJS e Python
 
 <div align="center">
   <a href="https://github.com/Alessandro5x">
