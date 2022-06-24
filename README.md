@@ -1,7 +1,7 @@
 ## Olá, eu sou o Alessandro Azevedo!!
 
-- 🔭 Hoje trabalho com back-end, principalmente .NET Core e Golang
-- 🌱 Estou estudando mais sobre as linguagens as quais trabalho além de NodeJS e Python
+- 🔭 Hoje trabalho com back-end e Machine Learning, principalmente Python em conjunto com ferramentas AWS
+- 🌱 Estou estudando mais sobre modelos de inteligência artificial relacionados a reconhecimento e identificação de características humanas.
 
 <div align="center">
   <a href="https://github.com/Alessandro5x">
