@@ -1,12 +1,11 @@
-## Olá, eu sou o Alessandro Azevedo!!
+## Hello, I am Alessandro Azevedo!!
 
-- 🔭 Hoje trabalho com back-end e Machine Learning, principalmente Python em conjunto com ferramentas AWS
-- 🌱 Estou estudando mais sobre modelos de inteligência artificial relacionados a reconhecimento e identificação de características humanas.
+- 🔭 Today I work with back-end and Machine Learning, mainly Python, NodeJS and Golang together with AWS tools
+- 🌱 I am improving myself every day in relation to the best market practices and developing code architecture skills
 
 <div align="center">
   <a href="https://github.com/Alessandro5x">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alessandro5x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro5x&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alessandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
