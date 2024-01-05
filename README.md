@@ -1,7 +1,6 @@
-## Hello, I am Alessandro Azevedo!!
+## Hello, I am Alessandro Duarte!!
 
-- 🔭 Today I work with back-end and Machine Learning, mainly Python, NodeJS and Golang together with AWS tools
-- 🌱 I am improving myself every day in relation to the best market practices and developing code architecture skills
+- 🔭 Enthusiastic about Back-End and CI/CD, I am a results-oriented professional with a proven track record in utilizing NodeJS, Golang, and Python as my primary development languages. With 4 years of experience, I have successfully implemented cutting-edge solutions using AWS Technologies for leading multinational companies. My commitment to continuous learning and adaptability has not only contributed to my technical proficiency but has also empowered me to excel in diverse and dynamic work environments.
 
 <div align="center">
   <a href="https://github.com/Alessandro5x">
