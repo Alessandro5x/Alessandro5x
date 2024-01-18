@@ -22,7 +22,10 @@
 </div>
   
   ##
- 
+ <div>
+  <a href="https://github.com/Alessandro5x">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Alessandro5x&show_icons=true&theme=dark"/>
+ </div>
 <div> 
   <a href="https://www.linkedin.com/in/alessandro-duarte-09174413a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
