@@ -1,6 +1,6 @@
 ## Hello, I am Alessandro Duarte!!
 
-- 🔭 Driven software developer with extensive experience as a FullStack developer with a focus on Back-End, leveraging expertise in NodeJS, React, Golang, and Python to deliver high-performance solutions. With a robust track record spanning 4 years, I've spearheaded the implementation of innovative solutions using AWS Technologies for prominent multinational enterprises. My commitment to continuous learning and adaptability has not only contributed to my technical proficiency but has also empowered me to excel in diverse and dynamic work environments.
+- 🚀I am a Full Stack Software Developer with 5 years of experience in delivering high-performance solutions for multinational enterprises. My expertise lies in leveraging technologies like Node.js, Python, React, TypeScript, GraphQL, RabbitMQ, Docker, Kubernetes and Restful APIs to design and implement innovative, scalable systems. I specialize in utilizing AWS technologies to drive the successful execution of projects, staying at the forefront of emerging trends to deliver efficient and reliable software solutions.
 
 <div align="center">
   <a href="https://github.com/Alessandro5x">
