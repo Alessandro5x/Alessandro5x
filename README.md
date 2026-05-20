@@ -1,6 +1,6 @@
 ## Hello, I am Alessandro Duarte!!
 
-- 🚀I am a Full Stack Software Developer with 5 years of experience in delivering high-performance solutions for multinational enterprises. My expertise lies in leveraging technologies like Node.js, Python, React, TypeScript, GraphQL, RabbitMQ, Docker, Kubernetes and Restful APIs to design and implement innovative, scalable systems. I specialize in utilizing AWS technologies to drive the successful execution of projects, staying at the forefront of emerging trends to deliver efficient and reliable software solutions.
+- 🚀I am a Full Stack Software Developer with 6 years of experience in delivering high-performance solutions for multinational enterprises. My expertise lies in leveraging technologies like Node.js, Python, React, TypeScript, GraphQL, RabbitMQ, Docker, Kubernetes and Restful APIs to design and implement innovative, scalable systems. I specialize in utilizing AWS technologies and I'm also certified with AWS Solutions Architect certification to drive the successful execution of projects, staying at the forefront of emerging trends to deliver efficient and reliable software solutions.
 
 <div align="center">
   <a href="https://github.com/Alessandro5x">
